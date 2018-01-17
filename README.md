@@ -1,4 +1,4 @@
-# nepali-calendar-conversion
+# nepali-date-conversion
 Algorithm and the most complete mapping required to convert from AD to BS or BS to AD.
 Only Java Implementation finished. You are welcome to send me a pull request for any programming language.
 
